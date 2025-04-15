@@ -7,4 +7,4 @@ Expected commits that are against integrity rules:
 * initial commit
 * commit updating the readme
 
-create feature branch with two commits, merge it back.
+create feature branch with two commits, merge it back (use merge commit).
